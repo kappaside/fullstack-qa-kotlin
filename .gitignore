@@ -43,3 +43,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.gradle/
+build/
+.idea/
+*.iml
+out/
+allure-results/
